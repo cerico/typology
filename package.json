@@ -1,0 +1,22 @@
+{
+  "name": "typology",
+  "version": "1.0.0",
+  "description": "typology",
+  "main": "server.js",
+  "dependencies": {
+    "css-mqpacker": "^7.0.0",
+    "sass": "^1.26.10",
+    "sergey": "0.0.13"
+  },
+  "scripts": {
+    "dev": "sergey --watch --port=8300 --exclude=.vscode,*.conf,src",
+    "netlify": "netlify deploy --prod -d public",
+    "sass": "sass --no-source-map src/style.scss files/style.css",
+    "mqpacker": "mqpacker -s ./files/style.css ./files/style.css",
+    "build": "npm run sass && npm run mqpacker",
+    "start": "sergey --exclude=src,README.md",
+    "go": "npm run dev & npm run sass"
+  },
+  "author": "gareth",
+  "license": "ISC"
+}

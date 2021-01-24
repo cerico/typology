@@ -1,0 +1,21 @@
+* { box-sizing: border-box; }
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
+ul { list-style: none; }
+
+html { font-size: 10px }
+
+p { font-size: 1.8rem; }
+
+h3 { font-size: 3.2rem; }
+
+a, b, body, canvas, caption, dd, div, dl, dt, figure, footer, form, h1, h2, h3, h4, header, html, i, img, li, menu, nav, object, p, pre, s, section, span, summary, time, ul, var {
+  margin: 0;
+  padding: 0;
+}
+
+

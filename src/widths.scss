@@ -1,0 +1,9 @@
+.w50 { width: 100%};
+.w35 { display: none};
+.w15 { display: none};
+
+@media (min-width:768px) {
+  .w50 { width: 50% };
+  .w35 { width: 35%; display: block };
+  .w15 { width: 15%; display: block};
+}

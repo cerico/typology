@@ -1,0 +1,27 @@
+body {
+  background: $slate;
+  color: $parchment;
+  border-color: $parchment;
+  font-family: $primary;
+  font-family: $secondary;
+  font-family: $third;
+  font-family: $fourth;
+  font-family: $fifth;
+  font-family: $sixth;
+  font-family: $seventh;
+  letter-spacing: 1.25px;
+}
+
+main {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.item {
+  align-items: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid;
+  display: flex;
+  font-size: 3rem;
+}
