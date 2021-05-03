@@ -1,5 +1,5 @@
 node_modules
 .netlify
 .vscode
-public
+public/*
 files/style.css
