@@ -1,7 +1,7 @@
 # Typology
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/adb34bef-e77f-494c-8914-221c2d3a2f76/deploy-status)](https://app.netlify.com/sites/typology/deploys)
-[![Mozilla Observatory](https://img.shields.io/mozilla-observatory/grade/typology.netlify.app)](https://observatory.mozilla.org/analyze/typology.netlfy.app)
+[![Mozilla Observatory](https://img.shields.io/mozilla-observatory/grade/typology.netlify.app)](https://observatory.mozilla.org/analyze/typology.netlify.app)
 [![Lighthouse Accessibility](https://lighthouses.io37.ch/typology.netlify.app/lighthouse_accessibility.svg)](https://lighthouses.io37.ch/typology.netlify.app.html)
 [![Lighthouse Performance](https://lighthouses.io37.ch/typology.netlify.app/lighthouse_performance.svg)](https://lighthouses.io37.ch/typology.netlify.app.html)
 
