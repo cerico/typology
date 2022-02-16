@@ -1,4 +1,4 @@
-# Growth and Population in Bulgaria, Portugal, Sweden post 2009 
+# Typology
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/adb34bef-e77f-494c-8914-221c2d3a2f76/deploy-status)](https://app.netlify.com/sites/typology/deploys)
 [![Mozilla Observatory](https://img.shields.io/mozilla-observatory/grade/typology.netlify.app)](https://observatory.mozilla.org/analyze/typology.netlfy.app)
